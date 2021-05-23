@@ -1,0 +1,8 @@
+# Editor directtories and fils
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
